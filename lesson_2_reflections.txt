@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It initializes that it is a git repository.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+
+ It is where you can initialize and check the status of. Helps provide an intermediate
+ step between both functions to selectively add.
